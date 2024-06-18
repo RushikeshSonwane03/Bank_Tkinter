@@ -47,7 +47,7 @@ t1.place(x=600, y=250)
 l2 = Label(win, text='Password', bd=5, fg='black', bg='yellow', font=f1)
 l2.place(x=600, y=350)
 
-t2 = Entry(win, font=f2)
+t2 = Entry(win, show='*', font=f2)
 t2.place(x=600, y=400)
 
 b1 = Button(win, text="Submit", font=f3, command=log_in)
