@@ -1,4 +1,4 @@
-# Bank Tkinter
+# Bank Tkinter: A Simple GUI Banking System
 ---
 
 ## Overview
